@@ -1,0 +1,2 @@
+SKUDesc,SubChanel,SKULabel,ProvinceCode,GroupChannel,model_prediction,SubChannelDesc,Start_date,Pred_Rank,Profitablity_Rank,Normalize_Profitablity,Normalize_Pred_rank,Composite_Rank,Final_Rank,Brand,Is_Top_Brand
+ncf_cfv_sib15,101,PC249,4,TT,20.3703703703704,01.Large Provision,2023-12-01,13,1,-2.37668858890866,-0.592748978363819,-0.771142939418303,11,ncf,yes
